@@ -1,0 +1,41 @@
+body{
+    font-family: Arial;
+    padding:40px;
+}
+.search-btn{
+    background-color: #fdfdfd;
+    color: rgb(0, 170, 170);
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 170, 170);
+    width: 150px;
+    height: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 16px;
+}
+.circle-btn{
+    background-color:rgb(0, 200, 170);
+    color: #fdfdfd;
+    border-radius: 50%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 200, 170);
+    width: 35px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 24px;
+    cursor: pointer;
+}
+.account-btn{
+    background-color: #2F80ED;
+    color: rgb(255, 255, 255);
+    border:2px solid black;
+    width: 200px;
+    height: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 16px;
+    box-shadow:4px 4px 0px black;
+}
